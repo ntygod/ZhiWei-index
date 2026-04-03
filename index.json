@@ -60,8 +60,8 @@
       "connector 协议：http"
     ],
     "minLifepilotVersion": "1.0.0",
-    "createdAt": "2026-03-29T22:17:39+08:00",
-    "updatedAt": "2026-03-29T22:17:39+08:00",
+    "createdAt": "2026-04-03T17:01:03+08:00",
+    "updatedAt": "2026-04-03T17:01:03+08:00",
     "downloads": 0,
     "verified": true
   },
@@ -84,8 +84,32 @@
       "connector 协议：http"
     ],
     "minLifepilotVersion": "1.0.0",
-    "createdAt": "2026-03-29T22:17:39+08:00",
-    "updatedAt": "2026-03-29T22:17:39+08:00",
+    "createdAt": "2026-04-03T17:01:03+08:00",
+    "updatedAt": "2026-04-03T17:01:03+08:00",
+    "downloads": 0,
+    "verified": true
+  },
+  {
+    "id": "qq",
+    "name": "QQ 机器人",
+    "type": "CHANNEL",
+    "version": "1.0.0",
+    "author": "zhiwei",
+    "description": "将知微 AI Agent 接入 QQ 群聊和私聊。",
+    "repoUrl": "https://raw.githubusercontent.com/ntygod/ZhiWei-plugins/main/channels/qq",
+    "filePath": "channel-plugin.json",
+    "tags": [
+      "channel",
+      "qq",
+      "external"
+    ],
+    "requirements": [
+      "需要外部 connector",
+      "connector 协议：http"
+    ],
+    "minLifepilotVersion": "1.0.0",
+    "createdAt": "2026-04-03T17:01:03+08:00",
+    "updatedAt": "2026-04-03T17:01:03+08:00",
     "downloads": 0,
     "verified": true
   },
@@ -108,8 +132,8 @@
       "connector 协议：http"
     ],
     "minLifepilotVersion": "1.0.0",
-    "createdAt": "2026-03-29T22:17:39+08:00",
-    "updatedAt": "2026-03-29T22:17:39+08:00",
+    "createdAt": "2026-04-03T17:01:03+08:00",
+    "updatedAt": "2026-04-03T17:01:03+08:00",
     "downloads": 0,
     "verified": true
   }
